@@ -19,4 +19,8 @@
     <td><strong>Add Item</strong></td>
     <td><img src="screenshots/add_item.png"  width="180"></td>
   </tr>
+  <tr>
+    <td><strong>Removed an Item</strong></td>
+    <td><img src="screenshots/groceries.png" width="180"></td>
+  </tr>
 </table>
