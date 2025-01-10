@@ -2,8 +2,14 @@
 <br />
 
 ## About:
-
+Allows users to add items to a grocery list. Each item can be categorized under a label.
 ## Features:
+  - saves the items to a database
+  - creates a useful shopping list
+
+## Packages Used:
+  - HTTP
+  - Convert
 
 ## Images:
 <table>
